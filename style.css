@@ -1,0 +1,13 @@
+body{
+    margin: 50px 100px;
+    background-color: black;
+}
+button{
+    width: 100px;
+}
+.el{
+    margin: 20px 0;
+}
+#error, #success{
+    display: none;
+}
